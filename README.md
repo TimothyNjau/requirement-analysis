@@ -38,3 +38,11 @@ It is a crucial step in software development, as it allows us to define the scop
    - Scalability - Able to be scaled to handle increased traffic.
    - Usability - The System has an intuitive UI/UX, making it easy for users to navigate and perform tasks.
    - Reliability - the system should have an uptime of 99.9% and recover quickly from any failures.
+
+ ## Use Case Diagrams
+ This is a visual representation of interactions between users and the system. They show how different users interact with the system to achieve specific goals(use cases).  
+*Benefits of Use Case Diagrams*  
+- Help in identifying and organizing system requirements.
+- Provide a clear visual representation of system functionalities.
+- Facilitate communication among stakeholders and the development team.  
+ ![alx-booking-uc.png](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G11bGC5ZpjLWID4fEQ0r29HLB9Ng34NHn6)
