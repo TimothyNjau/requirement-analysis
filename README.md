@@ -45,4 +45,5 @@ It is a crucial step in software development, as it allows us to define the scop
 - Help in identifying and organizing system requirements.
 - Provide a clear visual representation of system functionalities.
 - Facilitate communication among stakeholders and the development team.  
- ![alx-booking-uc.png](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G11bGC5ZpjLWID4fEQ0r29HLB9Ng34NHn6)
+ ![alx-booking-uc.png](https://drive.google.com/file/d/1LjZ9stJbHxDGpYBH8ahfUOzHeDgK_4pU/view?usp=drive_link)
+
