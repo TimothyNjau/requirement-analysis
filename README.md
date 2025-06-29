@@ -46,4 +46,6 @@ It is a crucial step in software development, as it allows us to define the scop
 - Provide a clear visual representation of system functionalities.
 - Facilitate communication among stakeholders and the development team.  
  ![alx-booking-uc.png](https://drive.google.com/file/d/1LjZ9stJbHxDGpYBH8ahfUOzHeDgK_4pU/view?usp=drive_link)
+![alx-booking-uc](https://github.com/user-attachments/assets/6d8d1ef6-3e9d-49fb-8104-3d2f875c401d)
+
 
