@@ -21,3 +21,20 @@ It is a crucial step in software development, as it allows us to define the scop
 3. Requirement Documentation - this entails giving a detailed documentation of functional and non-functional requirements of the project. One can also create use case stories and diagrams to show the varied interactions between different users and the system.
 4. Requirement Analysis and Modelling - creating a model to visualize and analyze requirements, e.g., data flow diagrams, entity-relationship diagrams. There is also an assessment on the feasibility of requirements in terms of technical, financial, and time constraints.
 5. Requirement Validation - Review the documented requirements with stakeholders to ensure accuracy and completeness. Definition of acceptance criteria for each requirement to ensure they meet the expected standards.  
+
+## Types of Requirements
+  ## Functional 
+  These describe what the system should do. For a booking management system, they include: 
+   -User registration - create an account with personal and login credentials
+   - User authentication - providing a secure login and registration process
+   - Property search - ability to search for properties based on various criteria such as location, price, and availability.
+   - Booking System - Ability to book properties, view booking details, and manage their bookings.
+   - Property Listing - display properties with essential details and images.
+
+  ## Non-functional
+  These describe how the system should perform. For a booking system, they include:
+   - Performance - able to load a page within 2 seconds and handle up to 1000 concurrent users.
+   - Security - Provide data encryption, secure login, and protection against common vulnerabilities.
+   - Scalability - Able to be scaled to handle increased traffic.
+   - Usability - The System has an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+   - Reliability - the system should have an uptime of 99.9% and recover quickly from any failures.
