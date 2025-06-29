@@ -48,4 +48,8 @@ It is a crucial step in software development, as it allows us to define the scop
  ![alx-booking-uc.png](https://drive.google.com/file/d/1LjZ9stJbHxDGpYBH8ahfUOzHeDgK_4pU/view?usp=drive_link)
 ![alx-booking-uc](https://github.com/user-attachments/assets/6d8d1ef6-3e9d-49fb-8104-3d2f875c401d)
 
+## Acceptance Criteria
+This defines the conditions that a feature must meet to be accepted by the stakeholders.
+It should be specific and measurable, and include both functional and non-functional aspects.
+An example of an acceptance criterion for a Checkout feature in a booking system > After identifying available dates and booking those particular dates, users should be able to securely pay to book the venue and receive payment confirmation in their email within 2 minutes after payment.
 
